@@ -50,7 +50,3 @@ This project is a Student Management System built using Spring Boot, which follo
 6. **View Rendering**:
    - Thymeleaf processes the view template and dynamically inserts data.
    - The rendered HTML page is sent back to the client.
-
----
-
-By following this structure, the Student Management System ensures a clean separation of concerns, making it easier to maintain and extend the application.
